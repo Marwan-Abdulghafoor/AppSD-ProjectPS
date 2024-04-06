@@ -1,0 +1,6 @@
+The system would help patients save their health records.
+Doctors can view patient's records easily.
+Doctors can append to patient's records as needed.
+Doctors can not delete anything.
+The system can be used as Emergency QR cards.
+The system helps first responders by giving them health information about chronic disease patients to take prompt reactions.
