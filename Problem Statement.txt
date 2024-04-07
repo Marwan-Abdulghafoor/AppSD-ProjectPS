@@ -1,3 +1,5 @@
+Patients can register to the system.
+Patients can log in to the system.
 The system would help patients save their health records.
 Doctors can view patient's records easily.
 Doctors can append to patient's records as needed.
